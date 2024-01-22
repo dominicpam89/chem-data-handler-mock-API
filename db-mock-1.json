@@ -1,0 +1,114 @@
+{
+    "users":[
+        {
+            "id":"976uj1bl2kbj30978aysphduo712h3",
+            "first_name":"John",
+            "last_name":"Doe",
+            "username":"johndoe",
+            "email":"johndoe@email.com",
+            "password":"password12345",
+            "role":"user",
+            "avatar":"/avatars/avatar-01.jpg"
+        },
+        {
+            "id":"0a987sydjn12j3n90q78wdujasnkd",
+            "first_name":"John",
+            "last_name":"Travolta",
+            "username":"johntravolta",
+            "email":"johntravolta@email.com",
+            "password":"password12345",
+            "role":"user",
+            "avatar":"/avatars/avatar-02.jpg"
+        },
+        {
+            "id":"kjbsldkub09q87wt8071u2b3kjbsd",
+            "first_name":"Super",
+            "last_name":"Handsome",
+            "username":"superhandsome",
+            "email":"superhandsome@email.com",
+            "password":"password12345",
+            "role":"admin",
+            "avatar":"/avatars/avatar-03.jpg"
+        }
+    ],
+    "compounds":[
+        {
+            "id":"asjdh0iquwhe10872",
+            "common_name":"Baking Soda",
+            "chemical_compound":"Sodium Hydrogen Carbonate",
+            "formula":"NaHCO3"
+        },
+        {
+            "id":"asjdh0ia09yhnnj22",
+            "common_name":"Antiformin/Bleach/Chloride of Soda",
+            "chemical_compound":"Sodium hypoclorite",
+            "formula":"NaOCl/NaCIO"
+        },
+        {
+            "id":"876sd0ujn1klj2b3n",
+            "common_name":"Bleaching Powder",
+            "chemical_compound":"Calcium Oxychloride",
+            "formula":"CaOCL2"
+        },
+        {
+            "id":"0987s6duijb12jb3d",
+            "common_name":"Blue Virtiol",
+            "chemical_compound":"Copper Sulphate",
+            "formula":"CuSO4.xH2O"
+        },
+        {
+            "id":"sd09761u23kjnasui",
+            "common_name":"Borax",
+            "chemical_compound":"Sodium tetraborate decahydrate",
+            "formula":"Na2[B4O5(OH)4].8H2O"
+        },
+        {
+            "id":"mnbksydg968271gw",
+            "common_name":"Calomel",
+            "chemical_compound":"Mercurous chloride",
+            "formula":"Hg2Cl2"
+        }
+    ],
+    "history":[
+        {
+            "id":"sakdb091872h3jknaqweuih018723",
+            "user_id":"976uj1bl2kbj30978aysphduo712h3",
+            "prediction_result":{
+                "value":"value dummy",
+                "class":"green"
+            }
+        },
+        {
+            "id":"as7d6y09u12kj3b1j2b3p91872h0uqhwge9087",
+            "user_id":"976uj1bl2kbj30978aysphduo712h3",
+            "prediction_result":{
+                "value":"value dummy",
+                "class":"red"
+            }
+        },
+        {
+            "id":"asodg0871g0287ug3blabsmndb8y918762g3bqw",
+            "user_id":"976uj1bl2kbj30978aysphduo712h3",
+            "prediction_result":{
+                "value":"value dummy",
+                "class":"yellow"
+            }
+        },
+        {
+            "id":"q8w7dog1b2l3b1lk2jb30q897wgdoiuqbwdmjqn",
+            "user_id":"0a987sydjn12j3n90q78wdujasnkd",
+            "prediction_result":{
+                "value":"value dummy",
+                "class":"yellow"
+            }
+        },
+        {
+            "id":"asdasnmbvgxvc8765f2hv3jhgv876sd9gfyvh1j2",
+            "user_id":"0a987sydjn12j3n90q78wdujasnkd",
+            "prediction_result":{
+                "value":"value dummy",
+                "class":"green"
+            }
+        }
+    ]
+}
